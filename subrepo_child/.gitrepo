@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/ghrud92/subrepo_child.git
 	branch = master
-	commit = ba1e6f1e90f5be63c9a00897aadc0d0cdf8760b9
-	parent = 72081c4367ec82a59acab14c6d02d2456bbd8262
+	commit = 15223db071c5c55e40d8c06f2abb42fee768a64c
+	parent = c41afdc031d0bd5c49b5c36d191647536c261306
 	method = merge
 	cmdver = 0.4.3
